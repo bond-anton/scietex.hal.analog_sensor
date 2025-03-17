@@ -3,6 +3,6 @@
 .venv
 .pytest_cache
 .mypy_cache
-src/nts.hardware.analog_sensor.egg-info
+src/scietex.hal.analog_sensor.egg-info
 .coverage
 htmlcov
